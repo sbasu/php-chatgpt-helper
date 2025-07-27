@@ -1,13 +1,13 @@
 {
-    "name": "yourname/php-chatgpt-helper",
-    "description": "A simple PHP helper class for integrating with OpenAI's ChatGPT API",
+    "name": "sbasu/php-chatgpt-helper",
+    "description": "A simple, powerful PHP library for integrating with OpenAI's ChatGPT API. Perfect for adding AI capabilities to your PHP applications with minimal setup.",
     "type": "library",
     "keywords": ["php", "chatgpt", "openai", "ai", "api", "helper"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Your Name",
-            "email": "your.email@example.com"
+            "name": "Shantanu Basu",
+            "email": "shantanubasu123@gmail.com"
         }
     ],
     "require": {
@@ -15,8 +15,6 @@
         "ext-curl": "*",
         "ext-json": "*"
     },
-    "minimum-stability": "stable",
-    "prefer-stable": true,
     "require-dev": {
         "phpunit/phpunit": "^9.0",
         "friendsofphp/php-cs-fixer": "^3.0"
@@ -39,4 +37,6 @@
         "cs-check": "php-cs-fixer fix --dry-run --diff",
         "cs-fix": "php-cs-fixer fix"
     },
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }

@@ -17,7 +17,7 @@ A simple, powerful PHP library for integrating with OpenAI's ChatGPT API. Perfec
 Install via Composer:
 
 ```bash
-composer require yourname/php-chatgpt-helper
+composer require sbasu/php-chatgpt-helper
 ```
 
 ## Quick Start
@@ -223,9 +223,9 @@ MIT License. See `LICENSE` file for details.
 
 ## Support
 
-- 📧 Email: your.email@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourname/php-chatgpt-helper/issues)
-- 📚 Documentation: [Full API docs](https://github.com/yourname/php-chatgpt-helper/wiki)
+- 📧 Email: shantanubasu123@gmail.com
+- 🐛 Issues: [GitHub Issues](https://github.com/sbasu/php-chatgpt-helper/issues)
+- 📚 Documentation: [Full API docs](https://github.com/sbasu/php-chatgpt-helper/wiki)
 
 ## Changelog
 
