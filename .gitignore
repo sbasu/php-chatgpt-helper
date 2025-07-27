@@ -1,0 +1,47 @@
+# Composer
+/vendor/
+composer.lock
+
+# PHPUnit
+.phpunit.result.cache
+.phpunit.cache/
+/coverage/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+/logs/
+
+# Environment variables
+.env
+.env.local
+.env.testing
+
+# Temporary files
+/tmp/
+*.tmp
+
+# API Keys (never commit these!)
+*.key
+api_keys.txt
+config/api_keys.php
+
+# Build artifacts
+/build/
+/dist/
+
+# Documentation generated files
+/docs/build/
+
+# Cache
+/cache/
+*.cache
